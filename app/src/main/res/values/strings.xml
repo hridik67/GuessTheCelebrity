@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess The Celebrity</string>
+    <string name="todo">TODO</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="hello">30s</string>
+    <string name="hello1">HELLO</string>
+</resources>
